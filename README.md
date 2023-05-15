@@ -19,16 +19,12 @@ If you have them, proceed with the below steps.
 
 1. Clone the repo 
 
-   ```shell
-   $ git clone https://github.com/Sarathisme/music-recommendation-system.git
-   ````
-2. Visit the [Run It](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#run-it) section
+   
+2. Visit the [Run It] section
 
 ### Instal Jupyter and Python
 1. Clone this repo to get the .ipynb files
-   ```shell
-   $ git clone https://github.com/Sarathisme/music-recommendation-system.git
-   ```
+   
 2. Install python from <a href="https://www.python.org/downloads/"/>https://www.python.org/downloads</a>
 
 3. If you already have jupyter in your machine, skip the next step.
